@@ -11,7 +11,7 @@ import {
   Button,
   StyleSheet,
   Alert,
-} from 'react-native';
+} from 'react-native'
 
 function CreateTodoModal({
   createModalVisible,
