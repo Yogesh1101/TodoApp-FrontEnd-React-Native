@@ -2,7 +2,7 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable prettier/prettier */
 /* eslint-disable react/prop-types */
-import React, { useState } from 'react';
+import React, { useState } from 'react'
 import {
   Modal,
   View,
