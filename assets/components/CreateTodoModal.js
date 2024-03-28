@@ -2,7 +2,7 @@
 /* eslint-disable no-unused-vars */
 /* eslint-disable prettier/prettier */
 /* eslint-disable react/prop-types */
-import React, { useState } from 'react'
+import React, { useState } from 'react';
 import {
   Modal,
   View,
@@ -11,7 +11,7 @@ import {
   Button,
   StyleSheet,
   Alert,
-} from 'react-native'
+} from 'react-native';
 
 function CreateTodoModal({
   createModalVisible,
